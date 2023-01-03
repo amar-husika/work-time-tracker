@@ -1,2 +1,3 @@
-# work-time-tracker
-Windows app for tracking work time
+# Work Time Tracker
+
+![work-time-tracker](https://i.ibb.co/YDr6G4m/work.jpg)
